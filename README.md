@@ -3,7 +3,7 @@
 
 
 📫 How to reach me: Drop a mail to abhishek.a2080@gmail.com
-
+📝 Read my blogs on [Medium](https://medium.com/@abhishek.a2080).
 
 ## Exploring
 - LLMs
