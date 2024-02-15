@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi!👋+I'm+Abhishek)](https://git.io/typing-svg)
 
 
-📫 How to reach me: Drop a mail to abhishek.a2080@gmail.com
+📫 How to reach me: Drop a mail to abhishek.a2080@gmail.com<br>
 📝 Read my blogs on [Medium](https://medium.com/@abhishek.a2080).
 
 ## Exploring
