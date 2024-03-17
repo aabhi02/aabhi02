@@ -10,6 +10,7 @@
 - VectorDBs
 - LamaIndex
 - LangChain
+- DSPy
 
 ## Languages and Tools
 <p align="left">
