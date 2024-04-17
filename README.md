@@ -8,9 +8,9 @@
 ## Exploring
 - LLMs
 - VectorDBs
-- LamaIndex
-- LangChain
-- DSPy
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [LiteLLM](https://github.com/BerriAI/litellm)
+- [DSPy](https://github.com/stanfordnlp/dspy)
 
 ## Languages and Tools
 <p align="left">
