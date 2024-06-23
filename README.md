@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi!👋+I'm+Abhishek;I'm+a+FREELANCER!)](https://git.io/typing-svg)
 
 About Me:
-- Passionate about applying things I learn into a practicle projects.
+- Passionate about applying what I learn to real-world projects.
 - As a dedicated freelancer, I specialize in offering SaaS (Software as a Service) solutions.
 - With my proficiency in AIML and your data, we can collaborate to find innovative solutions and tackle problems effectively.
 - If you'd like to chat about my SaaS services, just shoot me a message to my email.
