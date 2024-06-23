@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi!👋+I'm+Abhishek;I'm+a+FREELANCER!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi!👋+I'm+Abhishek;I'm+a+FREELANCER!👨🏽‍💻)](https://git.io/typing-svg)
 
 About Me:
 - Passionate about applying what I learn to real-world projects.
