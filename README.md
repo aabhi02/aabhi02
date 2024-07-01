@@ -5,7 +5,7 @@ About Me:
 - Passionate about applying what I learn to real-world projects.
 - As a dedicated freelancer, I specialize in offering SaaS (Software as a Service) solutions.
 - With my proficiency in AIML and your data, we can collaborate to find innovative solutions and tackle problems effectively.
-- If you'd like to chat about my SaaS services, just shoot me a message on my email.
+- If you'd like to chat about my SaaS services, just shoot me an email.
 
 📫 How to reach me: Drop a mail to abhishek.a2080@gmail.com<br>
 📝 Read my blogs on [Medium](https://medium.com/@aabhi02)
