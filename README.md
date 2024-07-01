@@ -19,7 +19,7 @@ About Me:
 
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ishandutta0098&count_private=true&show_icons=true&count_private=true&theme=radical" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aabhi02&count_private=true&show_icons=true&count_private=true&theme=radical" alt="GitHub Streak Stats"/>
     <br>
 </p>
 
